@@ -12,11 +12,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
-        This is the first app.
+        This is the first app. Some changes. Test import.
       </Text>
-      <Card>
-        <AssetExample />
-      </Card>
     </View>
   );
 }
